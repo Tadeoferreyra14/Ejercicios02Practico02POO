@@ -1,0 +1,16 @@
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\bin\Debug\net5.0\Ejercicios02Practico02.exe
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\bin\Debug\net5.0\Ejercicios02Practico02.deps.json
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\bin\Debug\net5.0\Ejercicios02Practico02.runtimeconfig.json
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\bin\Debug\net5.0\Ejercicios02Practico02.runtimeconfig.dev.json
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\bin\Debug\net5.0\Ejercicios02Practico02.dll
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\bin\Debug\net5.0\ref\Ejercicios02Practico02.dll
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\bin\Debug\net5.0\Ejercicios02Practico02.pdb
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\obj\Debug\net5.0\Ejercicios02Practico02.csprojAssemblyReference.cache
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\obj\Debug\net5.0\Ejercicios02Practico02.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\obj\Debug\net5.0\Ejercicios02Practico02.AssemblyInfoInputs.cache
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\obj\Debug\net5.0\Ejercicios02Practico02.AssemblyInfo.cs
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\obj\Debug\net5.0\Ejercicios02Practico02.csproj.CoreCompileInputs.cache
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\obj\Debug\net5.0\Ejercicios02Practico02.dll
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\obj\Debug\net5.0\ref\Ejercicios02Practico02.dll
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\obj\Debug\net5.0\Ejercicios02Practico02.pdb
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Ejercicios02Practico02\obj\Debug\net5.0\Ejercicios02Practico02.genruntimeconfig.cache

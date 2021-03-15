@@ -1,0 +1,11 @@
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\bin\Debug\net5.0\Ejercicios02Practico02.POO.deps.json
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\bin\Debug\net5.0\Ejercicios02Practico02.POO.dll
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\bin\Debug\net5.0\ref\Ejercicios02Practico02.POO.dll
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\bin\Debug\net5.0\Ejercicios02Practico02.POO.pdb
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\obj\Debug\net5.0\Ejercicios02Practico02.POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\obj\Debug\net5.0\Ejercicios02Practico02.POO.AssemblyInfoInputs.cache
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\obj\Debug\net5.0\Ejercicios02Practico02.POO.AssemblyInfo.cs
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\obj\Debug\net5.0\Ejercicios02Practico02.POO.csproj.CoreCompileInputs.cache
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\obj\Debug\net5.0\Ejercicios02Practico02.POO.dll
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\obj\Debug\net5.0\ref\Ejercicios02Practico02.POO.dll
+D:\visualtarea\Ejercicios02Practico02POO\Ejercicios02Practico02\Cono.POO\obj\Debug\net5.0\Ejercicios02Practico02.POO.pdb

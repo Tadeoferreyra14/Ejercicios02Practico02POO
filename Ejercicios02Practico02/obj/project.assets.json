@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Ejercicios02Practico02.POO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Ejercicios02Practico02.POO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ejercicios02Practico02.POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicios02Practico02.POO/1.0.0": {
+      "type": "project",
+      "path": "../Cono.POO/Ejercicios02Practico02.POO.csproj",
+      "msbuildProject": "../Cono.POO/Ejercicios02Practico02.POO.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Ejercicios02Practico02.POO >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tadeo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\visualtarea\\Ejercicios02Practico02POO\\Ejercicios02Practico02\\Ejercicios02Practico02\\Ejercicios02Practico02.console.csproj",
+      "projectName": "Ejercicios02Practico02.console",
+      "projectPath": "D:\\visualtarea\\Ejercicios02Practico02POO\\Ejercicios02Practico02\\Ejercicios02Practico02\\Ejercicios02Practico02.console.csproj",
+      "packagesPath": "C:\\Users\\tadeo\\.nuget\\packages\\",
+      "outputPath": "D:\\visualtarea\\Ejercicios02Practico02POO\\Ejercicios02Practico02\\Ejercicios02Practico02\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tadeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\visualtarea\\Ejercicios02Practico02POO\\Ejercicios02Practico02\\Cono.POO\\Ejercicios02Practico02.POO.csproj": {
+              "projectPath": "D:\\visualtarea\\Ejercicios02Practico02POO\\Ejercicios02Practico02\\Cono.POO\\Ejercicios02Practico02.POO.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
